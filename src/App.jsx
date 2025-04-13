@@ -4,6 +4,7 @@ import Hero from "./components/Hero/Hero";
 import Services from "./components/Services/Services";
 import Banner from "./components/Banner/Banner";
 import Subcribe from "./components/Subcribe/Subcribe";
+import Banner2 from "./components/Banner/Banner2";
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Services />
       <Banner />
       <Subcribe />
+      <Banner2 />
     </main>
   );
 };
